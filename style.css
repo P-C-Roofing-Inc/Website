@@ -306,7 +306,7 @@ nav ul{overflow:hidden; overflow-y:scroll;}
 .call-button-2{
     width: 15rem;
     height: 3rem;
-    background-color: rgb(40, 109, 200);
+    background-color: rgb(0, 0, 0);
     color: white;
     border: none;
     border-radius: 10px;
